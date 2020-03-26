@@ -1,7 +1,7 @@
 '''
 CIS 122 Winter 2020 Assignment 3
 Author: Ryan Heise
-Partner: Jayden Ben
+Partner: 
 Description: Create a void function to draw a line using Python's Turtle graphics
 '''
 
